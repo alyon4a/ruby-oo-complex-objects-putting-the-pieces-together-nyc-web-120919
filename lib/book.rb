@@ -16,5 +16,9 @@ class Book
     @author
   end
   
+  def turn_page
+    
+  end
+  
 end
 
